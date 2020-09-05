@@ -1,3 +1,7 @@
+# platzi-angular-typescript
+Curso de TypeScript con Angular por Belatrix, de Platzi.
+
+
 # TypescriptPlatzi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
